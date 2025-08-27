@@ -4,6 +4,9 @@
 # Database
 *.sqlite3
 
+# Settings.py
+bookstore/settings.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
